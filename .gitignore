@@ -1,0 +1,65 @@
+# Node modules
+node_modules
+
+# Build outputs
+build/
+out/
+lib/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Env files
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Testing
+jest.config.js
+test-results/
+
+# PM2 process manager
+pids/
+*.pid
+*.seed
+
+# Optional npm cache directory
+.npm/
+
+# Optional yarn cache
+.yarn/cache
+.yarn/unplugged
+.pnp.*
+.yarn/install-state.gz
+
+# Parcel bundler
+.cache/
+
+# Swagger auto-gen docs (caso esteja usando)
+swagger-output.json
+
+# VS Code launch config
+*.code-workspace
+
+# Mac system file
+.AppleDouble
+
+# Local MongoDB dump or backups
+dump/
