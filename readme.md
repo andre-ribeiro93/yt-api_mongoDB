@@ -94,3 +94,10 @@ Vídeos
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+
+## Projetos Relacionados
+
+- 🔗 [yt-project_int.mongoDB](https://github.com/andre-ribeiro93/yt-project_int.mongoDB): Projeto que consome esta API, utilizando MongoDB como banco de dados.
+
+- 🗃️ [yt-api_SQL](https://github.com/andre-ribeiro93/yt-api_SQL): Versão alternativa desta API utilizando banco de dados SQL.
